@@ -11,9 +11,8 @@ This project provides a basic example of the A2A SDK. It contains a single agent
 
 ### 2. Friend Scheduling Multi-Agent Demo (`a2a_friend_scheduling/`)
 
-This is a more advanced example showcasing a multi-agent system. It demonstrates how a "host" agent can orchestrate a conversation between multiple "friend" agents to accomplish a goal—in this case, scheduling a meeting. This project is ideal for learning about multi-agent orchestration and communication.
+This is a more advanced example showcasing a multi-agent system. It demonstrates how a "host" agent can orchestrate a conversation between two other agents, - the order agent and the product agent. This project is ideal for learning about multi-agent orchestration and communication.
 
-**>> For setup and run instructions, see the [Friend Scheduling README](./a2a_friend_scheduling/README.md).**
 
 ## References
 - https://github.com/google/a2a-python
